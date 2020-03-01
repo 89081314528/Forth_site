@@ -22,7 +22,7 @@ public class StringToInt {
 //            }
 //        }
 //        System.out.println(sum);
-//        2 вариант
+//        2 Вариант
         int sum = 0;
         String operation = "+";
         for (int i = 0; i < numbers.length; i++) {
